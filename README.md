@@ -14,7 +14,8 @@ Navigate to http://localhost:name_of_project_folder/ .The application will autom
 you need to create database in phpMyAdmin interface which contain "etudiant" , "enseignant" and "groupe" tables 
 or you can export directly the file "gestion_etudiant.sql" existed in this repository into your phpmyadmin
 
+# Interface of Application 
 
-
+After you doing this configuration you must get this interface of my application :
 
 ![1](https://github.com/Mahmoud-Ben-Ayech/SCO-ENICAR/assets/104568399/21e3c661-bd10-4390-abcc-ccd450ea33d6)
