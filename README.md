@@ -5,7 +5,7 @@ and ***apache 2.4.52*** with a version of ***php 7.4.27***
 
 # Development Server 
 
-you need to put this project in htdocs folder in xampp and open xampp control panel . 
+you need to put this project in htdocs folder in xampp and open xampp control panel and start "Apache" and "MySql" . 
 
 Navigate to http://localhost:name_of_project_folder/ .The application will automatically reload if you change any of the source files.
 
