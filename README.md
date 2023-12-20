@@ -15,3 +15,6 @@ you need to create database in phpMyAdmin interface which contain "etudiant" , "
 or you can export directly the file "gestion_etudiant.sql" existed in this repository into your phpmyadmin
 
 
+
+
+![1](https://github.com/Mahmoud-Ben-Ayech/SCO-ENICAR/assets/104568399/21e3c661-bd10-4390-abcc-ccd450ea33d6)
